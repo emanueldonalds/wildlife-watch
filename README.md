@@ -1,4 +1,4 @@
 # Wildlife Watch
-Raspberry PI with camera module runnin an rtsp server on LAN
+Raspberry PI with camera module running an RTSP server
 
-Server hub running image processing (motion) exposing a stream
+Server hub running image processing (motion) software on RTSP streams
