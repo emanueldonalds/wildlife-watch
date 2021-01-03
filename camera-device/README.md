@@ -1,8 +1,6 @@
 # Setup
-Configure static IP
+1. Configure static IP
 
-run ```sudo chmod a+rwx setup.sh```
+2. ```sudo chmod +x setup.sh```
 
-./setup.sh
-
-v4l2rtspserver -W 640 -H 480 -F 15 -P 8554 /dev/video0
+3. ```./setup.sh```
