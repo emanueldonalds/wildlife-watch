@@ -1,2 +1,4 @@
 # Wildlife Watch
-Setup a camera stream server on a raspberry pi with the camera module
+Raspberry PI with camera module runnin an rtsp server on LAN
+
+Server hub running image processing (motion) exposing a stream
