@@ -10,9 +10,7 @@ fi
 
 echo "Copying conf files"
 sudo cp scripts/motion /etc/default/motion
-sudo cp motion.conf /usr/local/etc/motion/motion.conf
+#sudo cp motion.conf /usr/local/etc/motion/motion.conf
 sudo cp motion.conf /etc/motion/motion.conf
-
-echo "Creating motion user"
 
 echo "Install complete"
