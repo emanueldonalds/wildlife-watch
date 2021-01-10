@@ -3,5 +3,6 @@ Server running Motion https://github.com/Motion-Project/motion for image process
 
 Intended for Ubuntu
 
-1. ```chmod +x setup.sh```
-2. start motion
+1. Configure motion.conf with IPs of the camera(s) using the netcam_url conf.
+2. Install with ```chmod +x install.sh``` ```sudo ./motion.sh```
+3. Reboot
